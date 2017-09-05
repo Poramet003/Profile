@@ -18,9 +18,16 @@ h1 {
     padding: 20px;
 }
 
+.gallery {
+    margin: auto;
+    text-align: center;
+    border-radius: 8px;
+}
+
 .profile-pic {
     margin: auto;
     text-align: center;
+    border-radius: 8px;
 }
 
 .information{
@@ -65,3 +72,4 @@ h3 {
     font-family: 'Itim', cursive;
     
 }
+
